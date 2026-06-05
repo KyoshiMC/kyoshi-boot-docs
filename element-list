@@ -1,0 +1,14 @@
+net.kyoshimc.kyoshiboot
+net.kyoshimc.kyoshiboot.api
+net.kyoshimc.kyoshiboot.api.command
+net.kyoshimc.kyoshiboot.api.command.annotation
+net.kyoshimc.kyoshiboot.api.command.argument
+net.kyoshimc.kyoshiboot.api.command.exception
+net.kyoshimc.kyoshiboot.api.di.annotation
+net.kyoshimc.kyoshiboot.api.di.exception
+net.kyoshimc.kyoshiboot.api.plugin
+net.kyoshimc.kyoshiboot.api.registry
+net.kyoshimc.kyoshiboot.core.argument
+net.kyoshimc.kyoshiboot.core.command
+net.kyoshimc.kyoshiboot.core.di
+net.kyoshimc.kyoshiboot.core.scanner
